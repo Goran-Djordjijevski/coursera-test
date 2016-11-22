@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-David Chu's China Bistro",
+      "appliesTo": "David Chu's China Bistro/",
+      "type": "command"
+    }
+  ]
+}
