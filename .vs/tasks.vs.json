@@ -5,6 +5,11 @@
       "taskName": "task-David Chu's China Bistro",
       "appliesTo": "David Chu's China Bistro/",
       "type": "command"
+    },
+    {
+      "taskName": "task-index",
+      "appliesTo": "DavidChu'sChinaBistro/index.html",
+      "type": "command"
     }
   ]
 }
