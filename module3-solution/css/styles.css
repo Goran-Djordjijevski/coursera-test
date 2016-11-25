@@ -12,6 +12,10 @@
     background-color: #DC3522;
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #1E1E20;
+}
+
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #2A2C2B;
 }
